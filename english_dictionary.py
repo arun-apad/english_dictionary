@@ -10,3 +10,4 @@ def definition(w):
 
 word = input("Enter the word: ")
 print(definition(word))
+print("git add")
